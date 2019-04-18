@@ -1,4 +1,6 @@
 # hm31's second homepage
 ## 홈페이지 수정 사항 
-- 1
-- 2
+- 1 border를 활용하여 이미지를 꾸밈
+- 2 audio를 활용하여 음악을 삽입함
+- 3 field set tag를 추가하여 정보를 입력할 수 있게 수정
+- 4 span을 활용하여 가독성을 향상시킴
